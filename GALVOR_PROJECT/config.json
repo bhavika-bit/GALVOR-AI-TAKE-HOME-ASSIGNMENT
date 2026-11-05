@@ -1,0 +1,31 @@
+{
+  "data_paths": {
+    "ads": "data/ads.csv",
+    "creators": "data/creators.csv",
+    "posts": "data/creator_posts.csv",
+    "audience": "data/creator_audience.csv"
+  },
+  "output_dir": "outputs",
+  "llm": {
+    "provider": "none",
+    "model": "gemini-2.0-flash"
+  },
+  "semantic": {
+    "use_embeddings": true,
+    "embedding_model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  "weights": {
+    "performance": 0.35,
+    "semantic": 0.40,
+    "brand": 0.25
+  },
+  "campaign_defaults": {
+    "product": "Little Joys kids' nutrition products (milk mixes and gummies)",
+    "objective": "Recommend five creators for an awareness and consideration campaign",
+    "target_audience": "Parents of young children in India",
+    "preferred_language": "Hinglish",
+    "creative_direction": "Authentic everyday storytelling with natural, transparent product integration",
+    "keywords": ["parenting", "kids food", "daily routine", "family", "child nutrition"],
+    "approved_claims": []
+  }
+}

@@ -1,0 +1,722 @@
+[
+  {
+    "id": "2a36c01a019b602bd5c2",
+    "category": "creative_knowledge",
+    "text": "This is what a real day looks like in my postpartum weight loss journey. | protein_intake | nan | nan | storytelling | storytelling; identity_appeal; social_proof | buy_now | protein_intake; recipe | lifestyle_kids_routine; recipe",
+    "source": "ads.csv"
+  },
+  {
+    "id": "e3950a12925318616453",
+    "category": "creative_knowledge",
+    "text": "குழந்தைகளுக்கு புரோட்டீன் கம்மியா இருக்கிறத்துக்கான 3 அறிகுறிகள் | protein_intake | voiceover_montage | problem_agitate_solve | instructional | fear_appeal; statistics_specificity | buy_now | protein_intake; kids_overall_growth; kids_immunity | recipe; lifestyle_kids_routine",
+    "source": "ads.csv"
+  },
+  {
+    "id": "29efbfcd01f9b9bfa052",
+    "category": "creative_knowledge",
+    "text": "അല്ല ഇന്ന് സ്കൂളിൽ പോവേണ്ട പരിപാടിയൊന്നും ഇല്ലേ? | ingredient_led | skit | routine_integration | storytelling | storytelling; identity_appeal; aesthetic_vibe_appeal | social_interface_referral | recipe; taste_better_than_other_brands; fussy_eating | lifestyle_kids_routine; recipe",
+    "source": "ads.csv"
+  },
+  {
+    "id": "d927057df27cd4fae715",
+    "category": "creative_knowledge",
+    "text": "Aaj dekhte hain meri plate mein kya kya hai | protein_intake | child_led | routine_integration | demo_walkthrough | storytelling; statistics_specificity | buy_now | protein_intake; recipe; taste_better_than_other_brands | lifestyle_kids_routine; recipe",
+    "source": "ads.csv"
+  },
+  {
+    "id": "0d710e16768b83b4b0b1",
+    "category": "creative_knowledge",
+    "text": "गर्मियों में बच्चों को दूध पिलाने की ट्रिक 🤌 | fussy_eating | silent_brand_film | problem_agitate_solve | none | aesthetic_vibe_appeal; contrast_with_competitors | none | fussy_eating; taste_better_than_other_brands; recipe | recipe; other",
+    "source": "ads.csv"
+  },
+  {
+    "id": "ae418d37636af298c9fb",
+    "category": "creative_knowledge",
+    "text": "Hello everyone. I am going to teach you how to make a quick, easy and delicious treat for you when your son is hungry | protein_intake | child_led | routine_integration | instructional | aesthetic_vibe_appeal; identity_appeal | buy_now | recipe; protein_intake; taste_better_than_other_brands | recipe",
+    "source": "ads.csv"
+  },
+  {
+    "id": "c394e82e4e41dfdd38b1",
+    "category": "creative_knowledge",
+    "text": "Nanna yaava mornings kooda onde thara iralla gotta? | overall_growth | voiceover_montage | routine_integration | storytelling | storytelling; identity_appeal; statistics_specificity | buy_now | kids_overall_growth; protein_intake | lifestyle_kids_routine; testimonial",
+    "source": "ads.csv"
+  },
+  {
+    "id": "842931ca7cdd17220e96",
+    "category": "creative_knowledge",
+    "text": "Nanannu strong maadohke bari haalu maatra alla, bisilu kooda beku. | overall_growth | other | science_explainer | character_play | authority_science; storytelling | none | kids_overall_growth | other",
+    "source": "ads.csv"
+  },
+  {
+    "id": "4ef3e2e219a1700c6ada",
+    "category": "creative_knowledge",
+    "text": "POV: Cricket is basically your whole personality 🏏 | protein_intake | child_led | routine_integration | storytelling | identity_appeal; storytelling; aesthetic_vibe_appeal | none | protein_intake; taste_better_than_other_brands; kids_overall_growth | lifestyle_kids_routine; testimonial",
+    "source": "ads.csv"
+  },
+  {
+    "id": "5a17c0ba465b8cfa5775",
+    "category": "creative_knowledge",
+    "text": "Mera beta bina jhagda kiye doodh finish kar le, mission impossible. | fussy_eating | voiceover_montage | problem_agitate_solve | earnest_talk | contrast_with_competitors; identity_appeal; storytelling | buy_now | fussy_eating; label_check; brand_milk_vs_regular_milk | testimonial; explainer",
+    "source": "ads.csv"
+  },
+  {
+    "id": "464143140e060a68f5a7",
+    "category": "creative_knowledge",
+    "text": "3 hidden jobs magnesium does in your child's body | educational | voiceover_montage | science_explainer | instructional | authority_science | buy_now | kids_overall_growth; other | other",
+    "source": "ads.csv"
+  },
+  {
+    "id": "1e172ec7683d94b1f252",
+    "category": "creative_knowledge",
+    "text": "உங்கள் குழந்தையின் வழக்கமான உணவில் 12 கிராம் புரோட்டீன் சேர்க்க முடிந்தால் எப்படி இருக்கும்? | protein_intake | voiceover_montage | routine_integration | demo_walkthrough | statistics_specificity; identity_appeal | none | protein_intake; recipe | recipe; lifestyle_kids_routine",
+    "source": "ads.csv"
+  },
+  {
+    "id": "c4ad1034972c9e5d2ed1",
+    "category": "creative_knowledge",
+    "text": "Hemin, breakfast കഴിക്കാം. | fussy_eating | skit | family_skit | demo_walkthrough | storytelling; identity_appeal | social_interface_referral | fussy_eating; kids_overall_growth; kids_immunity | lifestyle_kids_routine; testimonial",
+    "source": "ads.csv"
+  },
+  {
+    "id": "e4d127845e53b27caca1",
+    "category": "creative_knowledge",
+    "text": "Humare zamane mein toh hum nadiya paar karke school jaate the. | ingredient_led | skit | family_skit | character_play | humor; storytelling; identity_appeal | buy_now | taste_better_than_other_brands; kids_overall_growth; other | lifestyle_kids_routine; other",
+    "source": "ads.csv"
+  },
+  {
+    "id": "591cdfb691dfee2ff320",
+    "category": "creative_knowledge",
+    "text": "What does this Multivitamin Gummy actually give moms? | ingredient_led | voiceover_montage | ingredient_deep_dive | instructional | authority_science; identity_appeal | buy_now | other | explainer",
+    "source": "ads.csv"
+  },
+  {
+    "id": "710b7b9e2327c768e70c",
+    "category": "creative_knowledge",
+    "text": "Guys sach batau to yeh Little Joys Proteinmix ka mera dusra dabba hai | protein_intake | explainer_to_camera | routine_integration | earnest_talk | empties_restock_narrative; statistics_specificity; storytelling | buy_now | protein_intake; recipe; fussy_eating | recipe; lifestyle_kids_routine; testimonial",
+    "source": "ads.csv"
+  },
+  {
+    "id": "d8ec537e6a8b59804727",
+    "category": "creative_knowledge",
+    "text": "உங்க குழந்தை தினம் தினம் சாப்பிடுற ரொட்டியில தேவையான அளவு புரோட்டீன் இருக்கா? | protein_intake | voiceover_montage | problem_agitate_solve | instructional | statistics_specificity; identity_appeal | none | protein_intake; recipe; fussy_eating | recipe; lifestyle_kids_routine",
+    "source": "ads.csv"
+  },
+  {
+    "id": "dcce78b73df472eca62f",
+    "category": "creative_knowledge",
+    "text": "Yaar aaj na mere alarm ne dhokha de diya and I literally had 15 minutes to make breakfast for Kimaya. | problem_solution | explainer_to_camera | routine_integration | demo_walkthrough | storytelling; identity_appeal | none | recipe; protein_intake | recipe; lifestyle_kids_routine",
+    "source": "ads.csv"
+  },
+  {
+    "id": "b5e89df4952d7f662f71",
+    "category": "creative_knowledge",
+    "text": "ಮಕ್ಕಳಲ್ಲಿ ಕ್ಯಾಲ್ಸಿಯಂ ಕೊರತೆಯ 3 ಲಕ್ಷಣಗಳು | problem_solution | silent_brand_film | problem_agitate_solve | none | fear_appeal; authority_science; identity_appeal | buy_now | kids_overall_growth; protein_intake | explainer",
+    "source": "ads.csv"
+  },
+  {
+    "id": "5efce5c64a24ecb39a98",
+    "category": "creative_knowledge",
+    "text": "DOES YOUR CHILD'S LEAKY NOSE NEEDS LOTS OF TISSUES? 🤧🥺 | immunity | silent_brand_film | problem_agitate_solve | none | statistics_specificity; identity_appeal | buy_now | kids_immunity; protein_intake; kids_overall_growth | lifestyle_kids_routine; explainer",
+    "source": "ads.csv"
+  },
+  {
+    "id": "3647888e0b52e2f8d670",
+    "category": "creative_knowledge",
+    "text": "My picky son used to refuse oats because they are too soggy. | fussy_eating | explainer_to_camera | problem_agitate_solve | earnest_talk | storytelling; contrast_with_competitors; statistics_specificity | none | fussy_eating; protein_intake; taste_better_than_other_brands | testimonial; lifestyle_kids_routine",
+    "source": "ads.csv"
+  },
+  {
+    "id": "e1bf81cd933e690ce2da",
+    "category": "creative_knowledge",
+    "text": "ഇതാ എന്റെ മോൾക്ക് ഏറ്റവും ഫേവറേറ്റ് ആയിട്ടുള്ള ഡ്രിങ്ക് ഇതാണ്. | ingredient_led | voiceover_montage | ingredient_deep_dive | demo_walkthrough | statistics_specificity; contrast_with_competitors | none | protein_intake; label_check; kids_overall_growth | recipe; testimonial",
+    "source": "ads.csv"
+  },
+  {
+    "id": "cc10ec21f674350d44c4",
+    "category": "creative_knowledge",
+    "text": "Here's how I support my child's immunity before school starts? | immunity | explainer_to_camera | routine_integration | demo_walkthrough | statistics_specificity; identity_appeal | buy_now | kids_immunity; protein_intake | lifestyle_kids_routine",
+    "source": "ads.csv"
+  },
+  {
+    "id": "b1224001e04ebf3709c1",
+    "category": "creative_knowledge",
+    "text": "Multivitamin gummies! Saare important vitamins ki toffee toh bana di, par kya yeh sach mein healthy hai? | immunity | explainer_to_camera | myth_busting | myth_busting | authority_science; contrast_with_competitors | buy_now | label_check; kids_immunity; kids_overall_growth | explainer",
+    "source": "ads.csv"
+  },
+  {
+    "id": "f71ad9e8bca6f377cd56",
+    "category": "creative_knowledge",
+    "text": "Along with my breakfast, I take Little Joys Nutrimix for Moms. | mixed | voiceover_montage | routine_integration | earnest_talk | identity_appeal; storytelling | visit_store | protein_intake; other | testimonial; other",
+    "source": "ads.csv"
+  },
+  {
+    "id": "802c88e4d6a9d6540c2e",
+    "category": "creative_knowledge",
+    "text": "What if I told you that the rotis your child already loves can now have more protein | protein_intake | explainer_to_camera | problem_agitate_solve | earnest_talk | storytelling; statistics_specificity; identity_appeal | none | protein_intake; fussy_eating; recipe | lifestyle_kids_routine; recipe",
+    "source": "ads.csv"
+  },
+  {
+    "id": "f8ece6d561c31475e973",
+    "category": "creative_knowledge",
+    "text": "School jaane se pehle na main meri beti ko ek healthy nutritious breakfast deti hoon. | immunity | voiceover_montage | routine_integration | storytelling | storytelling; fear_appeal; identity_appeal | comment_for_link | kids_immunity; kids_overall_growth | lifestyle_kids_routine",
+    "source": "ads.csv"
+  },
+  {
+    "id": "376627d1bf810bf7c82a",
+    "category": "creative_knowledge",
+    "text": "Did you know that when it comes to your child's strong bones, milk alone isn't enough? | functional | voiceover_montage | problem_agitate_solve | instructional | authority_science; statistics_specificity; fear_appeal | buy_now | kids_overall_growth; other | explainer",
+    "source": "ads.csv"
+  },
+  {
+    "id": "bc41b32e2feeb0e61347",
+    "category": "creative_knowledge",
+    "text": "Monday Wednesday and Friday is for karate class | functional | voiceover_montage | routine_integration | storytelling | storytelling; statistics_specificity | buy_now | protein_intake; kids_overall_growth; label_check | lifestyle_kids_routine; testimonial",
+    "source": "ads.csv"
+  },
+  {
+    "id": "6d17319cfe9c07ebebfc",
+    "category": "creative_knowledge",
+    "text": "I just wanted to know about the gummies, is it safe or is it something hidden that I should know? | ingredient_led | podcast_interview | ingredient_deep_dive | earnest_talk | contrast_with_competitors; authority_science | buy_now | label_check; mom_research_about_product; kids_overall_growth | explainer; other",
+    "source": "ads.csv"
+  },
+  {
+    "id": "22bc46cf7a0f215e130d",
+    "category": "creative_knowledge",
+    "text": "देखो मेरे पास क्या है! ओ माय गॉड, गमी! | overall_growth | skit | family_skit | character_play | storytelling; humor; aesthetic_vibe_appeal | buy_now | kids_overall_growth; taste_better_than_other_brands; fussy_eating | lifestyle_kids_routine; explainer",
+    "source": "ads.csv"
+  },
+  {
+    "id": "d1fdc862f99fc840e710",
+    "category": "creative_knowledge",
+    "text": "देखो मेरे पास क्या है। | fussy_eating | skit | family_skit | character_play | storytelling; identity_appeal | buy_now | fussy_eating; kids_overall_growth; taste_better_than_other_brands | lifestyle_kids_routine; other",
+    "source": "ads.csv"
+  },
+  {
+    "id": "fe2b9f8cc89d2775cbdb",
+    "category": "creative_knowledge",
+    "text": "Do you actually know what's in your child's milk mix? | ingredient_led | explainer_to_camera | science_explainer | earnest_talk | authority_science; certification_endorsement; contrast_with_competitors | buy_now | label_check; kids_overall_growth | explainer",
+    "source": "ads.csv"
+  },
+  {
+    "id": "82907dced5d888855dfd",
+    "category": "creative_knowledge",
+    "text": "Hi mommies. This is literally my third box of the Little Joys protein mix. | protein_intake | explainer_to_camera | routine_integration | demo_walkthrough | empties_restock_narrative; statistics_specificity; identity_appeal | none | protein_intake; recipe | testimonial; recipe",
+    "source": "ads.csv"
+  },
+  {
+    "id": "620dc6b2800e71e54209",
+    "category": "creative_knowledge",
+    "text": "So kids aa rahe hain do-do teen-teen baar Nutrimix milkshake try karne ke liye. | taste | nan | nan | high_energy_pitch | social_proof | buy_now | taste_better_than_other_brands; fussy_eating | testimonial",
+    "source": "ads.csv"
+  },
+  {
+    "id": "84bed4c3cac7ee867943",
+    "category": "creative_knowledge",
+    "text": "One of these pancakes is made with 12g of extra protein. Let's see if the kids can tell. | taste | explainer_to_camera | sensory_texture_focus | demo_walkthrough | social_proof; statistics_specificity | buy_now | protein_intake; fussy_eating; taste_better_than_other_brands | recipe; testimonial",
+    "source": "ads.csv"
+  },
+  {
+    "id": "81b2acf15738c5776860",
+    "category": "creative_knowledge",
+    "text": "Itne saare vitamins and minerals ek saath aa gaye? Aisa toh kabhi bhi nahi hota. | fussy_eating | skit | problem_agitate_solve | character_play | storytelling; humor | none | fussy_eating; kids_overall_growth | other; explainer",
+    "source": "ads.csv"
+  },
+  {
+    "id": "dca4eb585d4a54dd0385",
+    "category": "creative_knowledge",
+    "text": "What about Nutrimix? Nutrimix is about powder you put in kids' milk? | ingredient_led | other | ingredient_deep_dive | earnest_talk | authority_science; identity_appeal | buy_now | protein_intake; recipe; kids_overall_growth | explainer; other",
+    "source": "ads.csv"
+  },
+  {
+    "id": "2a0678c55053989ee139",
+    "category": "creative_knowledge",
+    "text": "Good morning moms! Kal raat me Satvik mujhse puchne laga ki Mumma aap tiffin me kya le jati thi. | immunity | explainer_to_camera | routine_integration | demo_walkthrough | storytelling; identity_appeal | comment_for_link | kids_immunity; kids_overall_growth; recipe | recipe; lifestyle_kids_routine",
+    "source": "ads.csv"
+  },
+  {
+    "id": "6f3be281e98710470748",
+    "category": "creative_knowledge",
+    "text": "Agar aapke bache ka digestion poor hai | problem_solution | voiceover_montage | problem_agitate_solve | instructional | authority_science; fear_appeal | buy_now | kids_overall_growth; kids_immunity; other | lifestyle_kids_routine; other",
+    "source": "ads.csv"
+  },
+  {
+    "id": "0b1f133a048a21816251",
+    "category": "creative_knowledge",
+    "text": "ನನ್ನ ಮಗ ಪ್ರತಿದಿನ ಟಿಫಿನ್ ಸಂಪೂರ್ಣ ಮುಗಿಸುವುದನ್ನು ನಾನು ಹೇಗೆ ಖಚಿತಪಡಿಸಿಕೊಳ್ಳುತ್ತೇನೆ? | fussy_eating | voiceover_montage | problem_agitate_solve | storytelling | storytelling; identity_appeal; statistics_specificity | buy_now | fussy_eating; kids_overall_growth; kids_immunity | testimonial; lifestyle_kids_routine",
+    "source": "ads.csv"
+  },
+  {
+    "id": "8f7b67ed1982361cf8b9",
+    "category": "creative_knowledge",
+    "text": "This tastes so yummy. I like drinking milk. | ingredient_led | child_led | family_skit | demo_walkthrough | certification_endorsement; authority_science | other | label_check; kids_overall_growth; taste_better_than_other_brands | testimonial; lifestyle_kids_routine",
+    "source": "ads.csv"
+  },
+  {
+    "id": "ad3359b79aaa8b9b93da",
+    "category": "creative_knowledge",
+    "text": "Can you believe this??? 👀 | protein_intake | voiceover_montage | ingredient_deep_dive | earnest_talk | statistics_specificity; identity_appeal | none | protein_intake; label_check; taste_better_than_other_brands | explainer",
+    "source": "ads.csv"
+  },
+  {
+    "id": "76357c10439215047060",
+    "category": "creative_knowledge",
+    "text": "Ee Sunday andre holiday | immunity | skit | family_skit | character_play | storytelling; humor; identity_appeal | none | kids_immunity; kids_overall_growth; taste_better_than_other_brands | lifestyle_kids_routine; testimonial",
+    "source": "ads.csv"
+  },
+  {
+    "id": "996ffac7dc99af7c6a3c",
+    "category": "creative_knowledge",
+    "text": "Breakfast ಮಾಡುವಾಗ help ಮಾಡ್ತಾಳೆ | ingredient_led | voiceover_montage | routine_integration | storytelling | storytelling; identity_appeal; statistics_specificity | buy_now | kids_overall_growth; protein_intake; taste_better_than_other_brands | lifestyle_kids_routine; recipe",
+    "source": "ads.csv"
+  },
+  {
+    "id": "81c3a609f447b11d7b67",
+    "category": "creative_knowledge",
+    "text": "Is hafte na main ek bahut hi interesting book padh rahi hoon | protein_intake | voiceover_montage | routine_integration | storytelling | storytelling; statistics_specificity; identity_appeal | buy_now | protein_intake; kids_overall_growth | lifestyle_kids_routine",
+    "source": "ads.csv"
+  },
+  {
+    "id": "d258fa0161353cffc4e2",
+    "category": "creative_knowledge",
+    "text": "Appu Ammu shoes haakondra? | immunity | skit | routine_integration | storytelling | storytelling; fear_appeal; identity_appeal | none | kids_immunity; kids_overall_growth | lifestyle_kids_routine; sibling_conversation",
+    "source": "ads.csv"
+  },
+  {
+    "id": "79c4fb6d9ee53adea13b",
+    "category": "creative_knowledge",
+    "text": "So instead of waiting for the perfect self-care routine, I started with a small few things that I can realistically stay consistent with. | mixed | voiceover_montage | routine_integration | earnest_talk | aesthetic_vibe_appeal; identity_appeal; storytelling | none | other | lifestyle_kids_routine; explainer",
+    "source": "ads.csv"
+  },
+  {
+    "id": "3f3e61bac039dc6ac804",
+    "category": "creative_knowledge",
+    "text": "Do you also have something which does not even have jaggery for kids? | ingredient_led | explainer_to_camera | problem_agitate_solve | instructional | identity_appeal; contrast_with_competitors | buy_now | label_check; other | explainer; other",
+    "source": "ads.csv"
+  },
+  {
+    "id": "8b75ac1740cebb98f4db",
+    "category": "creative_knowledge",
+    "text": "How much protein do school going kids need? | protein_intake | child_led | problem_agitate_solve | demo_walkthrough | statistics_specificity; storytelling; humor | buy_now | protein_intake; recipe; taste_better_than_other_brands | explainer; recipe; lifestyle_kids_routine",
+    "source": "ads.csv"
+  },
+  {
+    "id": "76300dff8e3f8e7d97bc",
+    "category": "creative_knowledge",
+    "text": "Ye koi normal gummy nahi hai, aur nahi chini se bhari koi toffee... fir ye hai kya? | ingredient_led | explainer_to_camera | ingredient_deep_dive | instructional | authority_science; contrast_with_competitors | buy_now | kids_immunity; label_check; kids_overall_growth | other",
+    "source": "ads.csv"
+  },
+  {
+    "id": "dc0658bb03a34f9ee4f7",
+    "category": "creative_knowledge",
+    "text": "I like this, but why is this so expensive? | ingredient_led | skit | ingredient_deep_dive | earnest_talk | authority_science; certification_endorsement | buy_now | label_check; protein_intake | other",
+    "source": "ads.csv"
+  },
+  {
+    "id": "55899bcac5fc2001b04d",
+    "category": "creative_knowledge",
+    "text": "Would you believe me if I told you I've been having this ragi milk since I was 4 years old? | taste | explainer_to_camera | problem_agitate_solve | storytelling | storytelling; identity_appeal; contrast_with_competitors | buy_now | fussy_eating; kids_overall_growth; taste_better_than_other_brands | lifestyle_kids_routine; explainer; testimonial",
+    "source": "ads.csv"
+  },
+  {
+    "id": "193a07926fcdd850aeb8",
+    "category": "creative_knowledge",
+    "text": "What if I say this beautiful looking slices of bread are made with spreads that have clean ingredients? | ingredient_led | voiceover_montage | listicle_tips | demo_walkthrough | aesthetic_vibe_appeal; contrast_with_competitors | comment | recipe; kids_immunity; protein_intake | recipe; explainer",
+    "source": "ads.csv"
+  },
+  {
+    "id": "39b247b2110a81e9a702",
+    "category": "creative_knowledge",
+    "text": "So kids are coming back twice or thrice just to try the Nutrimix milkshake. | taste | other | testimonial_review | earnest_talk | social_proof | buy_now | taste_better_than_other_brands | testimonial; other",
+    "source": "ads.csv"
+  },
+  {
+    "id": "732adfdc6f0392f66102",
+    "category": "creative_knowledge",
+    "text": "ਜੋ ਤੁਸੀਂ ਲੇਬਲ ਉੱਤੇ ਦੇਖਦੇ ਹੋ, ਉਹ ਇੱਥੇ ਇਸ ਮੇਜ਼ ਉੱਤੇ ਮੌਜੂਦ ਹੈ। | ingredient_led | explainer_to_camera | ingredient_deep_dive | instructional | authority_science; certification_endorsement; contrast_with_competitors | buy_now | label_check; mom_research_about_product; kids_overall_growth | other",
+    "source": "ads.csv"
+  },
+  {
+    "id": "b7fd92975a8797e0fed5",
+    "category": "creative_knowledge",
+    "text": "Mumma kuch sweet chahiye | ingredient_led | skit | family_skit | demo_walkthrough | storytelling; identity_appeal | none | recipe; taste_better_than_other_brands; label_check | recipe; lifestyle_kids_routine",
+    "source": "ads.csv"
+  },
+  {
+    "id": "0441bfe35a27b6e86466",
+    "category": "creative_knowledge",
+    "text": "ಟ್ರೈ ಮಾಡಿ Iced! | taste | child_led | straight_pitch | none | aesthetic_vibe_appeal; identity_appeal | buy_now | taste_better_than_other_brands; protein_intake | lifestyle_kids_routine",
+    "source": "ads.csv"
+  },
+  {
+    "id": "94645be0dbc9f5ac3737",
+    "category": "creative_knowledge",
+    "text": "Three things that I assumed about adding protein to my child's diet and I was wrong in all three. | protein_intake | explainer_to_camera | myth_busting | myth_busting | storytelling; statistics_specificity; contrast_with_competitors | buy_now | protein_intake; recipe; fussy_eating | recipe; lifestyle_kids_routine",
+    "source": "ads.csv"
+  },
+  {
+    "id": "0d8bfc1837667595c589",
+    "category": "creative_knowledge",
+    "text": "Okay, so it's a treat day for Betty today and she obviously chose chocolate pancakes. | functional | explainer_to_camera | routine_integration | demo_walkthrough | storytelling; contrast_with_competitors | none | recipe; protein_intake; label_check | recipe; lifestyle_kids_routine; testimonial",
+    "source": "ads.csv"
+  },
+  {
+    "id": "6fc3db5f3827e1cdf199",
+    "category": "creative_knowledge",
+    "text": "Have u tried the little joys immunity kit before school starts ? | immunity | voiceover_montage | ingredient_deep_dive | instructional | authority_science; identity_appeal | none | kids_immunity; label_check | explainer",
+    "source": "ads.csv"
+  },
+  {
+    "id": "593f6a8e2b29fa1cc63e",
+    "category": "creative_knowledge",
+    "text": "Little Joys Multivitamin Gummies for Moms. | functional | explainer_to_camera | testimonial_review | earnest_talk | identity_appeal; statistics_specificity | buy_now | mom_research_about_product; kids_immunity; other | testimonial; explainer",
+    "source": "ads.csv"
+  },
+  {
+    "id": "e5086aa821fd17985741",
+    "category": "creative_knowledge",
+    "text": "No Onion No Garlic | ingredient_led | silent_brand_film | ingredient_deep_dive | none | statistics_specificity; contrast_with_competitors | none | taste_better_than_other_brands; fussy_eating | explainer; lifestyle_kids_routine",
+    "source": "ads.csv"
+  },
+  {
+    "id": "2e85bd8b1020bc1f26b0",
+    "category": "creative_knowledge",
+    "text": "Pura hafta school toh baad aaj weekend aa gya | overall_growth | voiceover_montage | day_in_life | storytelling | storytelling; identity_appeal; statistics_specificity | none | kids_overall_growth; protein_intake; taste_better_than_other_brands | lifestyle_kids_routine; testimonial",
+    "source": "ads.csv"
+  },
+  {
+    "id": "c732cb0a10d51d086782",
+    "category": "creative_knowledge",
+    "text": "I give her the Little Joy's multivitamin gummies every single day. | immunity | podcast_interview | testimonial_review | earnest_talk | social_proof; storytelling | buy_now | kids_immunity; kids_overall_growth; taste_better_than_other_brands | testimonial",
+    "source": "ads.csv"
+  },
+  {
+    "id": "ab22ca6c457f3a3e6ec2",
+    "category": "creative_knowledge",
+    "text": "Aaj kal protein bars, protein biscuits, protein chips sabki baat hoti hai. | protein_intake | explainer_to_camera | problem_agitate_solve | earnest_talk | contrast_with_competitors; statistics_specificity; identity_appeal | buy_now | protein_intake; kids_overall_growth; kids_immunity | explainer; testimonial",
+    "source": "ads.csv"
+  },
+  {
+    "id": "de5c0d132e7e4a20631b",
+    "category": "creative_knowledge",
+    "text": "बच्चों के नखरों की वजह से मैं उनके न्यूट्रिशन को लेकर हमेशा परेशान रहती हूँ | fussy_eating | voiceover_montage | problem_agitate_solve | demo_walkthrough | storytelling; fear_appeal; identity_appeal | none | fussy_eating; protein_intake; recipe | recipe; lifestyle_kids_routine",
+    "source": "ads.csv"
+  },
+  {
+    "id": "fd91745100b9e4825aac",
+    "category": "creative_knowledge",
+    "text": "CAN YOU SPOT THE MAGNESIUM ON THIS PLATE? | ingredient_led | voiceover_montage | ingredient_deep_dive | instructional | authority_science; statistics_specificity | none | other | explainer",
+    "source": "ads.csv"
+  },
+  {
+    "id": "402edd524c17a3f23a13",
+    "category": "creative_knowledge",
+    "text": "इनमें से एक पैनकेक में है 12 ग्राम एक्स्ट्रा प्रोटीन। देखते हैं, क्या बच्चों को इसका पता चलता है? | taste | other | other | demo_walkthrough | social_proof; contrast_with_competitors; statistics_specificity | buy_now | taste_better_than_other_brands; protein_intake; recipe | other; recipe",
+    "source": "ads.csv"
+  },
+  {
+    "id": "c08e6f8f93b146ee8f17",
+    "category": "creative_knowledge",
+    "text": "How did you come up with the formulation of Nutrimix? | ingredient_led | podcast_interview | ingredient_deep_dive | other | storytelling; identity_appeal; authority_science | buy_now | mom_research_about_product; kids_overall_growth; other | podcast; recipe",
+    "source": "ads.csv"
+  },
+  {
+    "id": "2ae55271683a576d0adb",
+    "category": "creative_knowledge",
+    "text": "विटामिन बी 12, विटामिन डी 3 | ingredient_led | voiceover_montage | ingredient_deep_dive | earnest_talk | identity_appeal; authority_science | none | other | other",
+    "source": "ads.csv"
+  },
+  {
+    "id": "ffceb7c8271c7f82ce78",
+    "category": "creative_knowledge",
+    "text": "Little Joys Nutrimix | functional | silent_brand_film | straight_pitch | none | statistics_specificity; identity_appeal | none | protein_intake; recipe | recipe; other",
+    "source": "ads.csv"
+  },
+  {
+    "id": "8957046a907176ad150e",
+    "category": "creative_knowledge",
+    "text": "Healthy sandwich എന്ന് കേൾക്കുമ്പോൾ എനിക്ക് വേണ്ടേ എന്ന് പറയുന്ന പിള്ളേർ ഉണ്ടാവില്ലേ നമ്മുടെ കൂട്ടത്തിൽ? | protein_intake | voiceover_montage | routine_integration | demo_walkthrough | storytelling; identity_appeal | none | recipe; protein_intake; kids_overall_growth | recipe; lifestyle_kids_routine",
+    "source": "ads.csv"
+  },
+  {
+    "id": "6df281d252227de1eb5e",
+    "category": "creative_knowledge",
+    "text": "So, I bet you won't believe me if I tell these yummy chocolate waffles, | protein_intake | voiceover_montage | problem_agitate_solve | demo_walkthrough | statistics_specificity; identity_appeal | none | recipe; protein_intake | recipe; testimonial",
+    "source": "ads.csv"
+  },
+  {
+    "id": "6d3556232249b38ef99b",
+    "category": "creative_knowledge",
+    "text": "Mama! We are home! | fussy_eating | skit | family_skit | storytelling | storytelling; identity_appeal; statistics_specificity | none | fussy_eating; protein_intake; recipe | lifestyle_kids_routine; recipe; testimonial",
+    "source": "ads.csv"
+  },
+  {
+    "id": "9f3e6e78e71be02a7107",
+    "category": "creative_knowledge",
+    "text": "Isme 9g protein hai. Yeh mujhe rozana ki taaqat deta hai. | overall_growth | other | ingredient_deep_dive | character_play | statistics_specificity; humor; authority_science | buy_now | kids_overall_growth; protein_intake; kids_immunity | explainer",
+    "source": "ads.csv"
+  },
+  {
+    "id": "6e0be97a8e1e0163f1ad",
+    "category": "creative_knowledge",
+    "text": "This one is from Little Joys. | sensory_texture | explainer_to_camera | routine_integration | demo_walkthrough | aesthetic_vibe_appeal; identity_appeal; statistics_specificity | none | recipe; protein_intake | recipe; explainer",
+    "source": "ads.csv"
+  },
+  {
+    "id": "f39c8904c21367b862c4",
+    "category": "creative_knowledge",
+    "text": "Gummies sir, natural aur safe kaise? | ingredient_led | skit | ingredient_deep_dive | instructional | authority_science; identity_appeal | buy_now | fussy_eating; kids_overall_growth | explainer",
+    "source": "ads.csv"
+  },
+  {
+    "id": "48c8955505966d934141",
+    "category": "creative_knowledge",
+    "text": "Har evening mein khud apna 3 ingredient protein shake banata hoon. | protein_intake | child_led | routine_integration | demo_walkthrough | storytelling; statistics_specificity; identity_appeal | buy_now | protein_intake; recipe; taste_better_than_other_brands | recipe; explainer; testimonial",
+    "source": "ads.csv"
+  },
+  {
+    "id": "a20f08adc4f1daf3e75e",
+    "category": "creative_knowledge",
+    "text": "क्या आप बच्चे की खाँसी से परेशान हैं? | immunity | voiceover_montage | problem_agitate_solve | demo_walkthrough | fear_appeal; storytelling | buy_now | kids_immunity; taste_better_than_other_brands | lifestyle_kids_routine; explainer",
+    "source": "ads.csv"
+  },
+  {
+    "id": "b4f7ecb5caa5d0b2da3b",
+    "category": "creative_knowledge",
+    "text": "Moms, this school season do not forget to add this milk mix to your child's diet. | overall_growth | voiceover_montage | straight_pitch | earnest_talk | identity_appeal; statistics_specificity | none | kids_overall_growth; protein_intake; label_check | explainer",
+    "source": "ads.csv"
+  },
+  {
+    "id": "1fa620e81e187da11213",
+    "category": "creative_knowledge",
+    "text": "Why is it so expensive in comparison? | ingredient_led | explainer_to_camera | myth_busting | myth_busting | contrast_with_competitors; authority_science; identity_appeal | buy_now | label_check; taste_better_than_other_brands | other",
+    "source": "ads.csv"
+  },
+  {
+    "id": "10a521ef6d96848efa59",
+    "category": "creative_knowledge",
+    "text": "Are you giving this milk to your kid? | problem_solution | explainer_to_camera | problem_agitate_solve | demo_walkthrough | authority_science; contrast_with_competitors; certification_endorsement | buy_now | label_check; brand_milk_vs_regular_milk | explainer",
+    "source": "ads.csv"
+  },
+  {
+    "id": "463c060160c5605cc775",
+    "category": "creative_knowledge",
+    "text": "Jeshita ge plain milk ishta agalla | fussy_eating | voiceover_montage | problem_agitate_solve | earnest_talk | storytelling; statistics_specificity; identity_appeal | buy_now | fussy_eating; kids_overall_growth; taste_better_than_other_brands | testimonial; lifestyle_kids_routine",
+    "source": "ads.csv"
+  },
+  {
+    "id": "d38791b59eeaf1b823d2",
+    "category": "creative_knowledge",
+    "text": "As a mom if u want to make mornings easy, do try this milk mix | overall_growth | voiceover_montage | routine_integration | earnest_talk | identity_appeal; storytelling | learn_more | kids_overall_growth; protein_intake; fussy_eating | testimonial; lifestyle_kids_routine",
+    "source": "ads.csv"
+  },
+  {
+    "id": "97d5c56258c9fe2385e1",
+    "category": "creative_knowledge",
+    "text": "Rishu schoolittu verunnath nadannittan. | protein_intake | voiceover_montage | routine_integration | demo_walkthrough | storytelling; statistics_specificity; contrast_with_competitors | none | protein_intake; recipe; kids_overall_growth | lifestyle_kids_routine; recipe; explainer",
+    "source": "ads.csv"
+  },
+  {
+    "id": "fed08e4837c819de27fa",
+    "category": "creative_knowledge",
+    "text": "Arrey wah! Devrani ji ne apne bete ko naya water bottle dilaya hai. | fussy_eating | skit | family_skit | character_play | storytelling; humor; social_proof | buy_now | fussy_eating; kids_overall_growth; taste_better_than_other_brands | lifestyle_kids_routine; explainer",
+    "source": "ads.csv"
+  },
+  {
+    "id": "a9f8c4a0a255e40ed304",
+    "category": "creative_knowledge",
+    "text": "Maine bachho ki kaafi recipes banayi hai lekin ye wali kab safachat ho jati hai pata hi nahi lagta. | immunity | voiceover_montage | routine_integration | instructional | storytelling; aesthetic_vibe_appeal; identity_appeal | none | recipe; kids_immunity; fussy_eating | recipe; lifestyle_kids_routine",
+    "source": "ads.csv"
+  },
+  {
+    "id": "4d1c0b489cfa46277b18",
+    "category": "creative_knowledge",
+    "text": "3 signs of Calcium Deficiency in kids | problem_solution | silent_brand_film | problem_agitate_solve | none | fear_appeal; identity_appeal | buy_now | kids_overall_growth; protein_intake | lifestyle_kids_routine",
+    "source": "ads.csv"
+  },
+  {
+    "id": "de61af3d8b18a2a5e85d",
+    "category": "creative_knowledge",
+    "text": "What you see on the label is right here on the table. | ingredient_led | explainer_to_camera | science_explainer | instructional | authority_science; certification_endorsement; contrast_with_competitors | buy_now | label_check; kids_overall_growth | explainer",
+    "source": "ads.csv"
+  },
+  {
+    "id": "477012267c4dc31b29bc",
+    "category": "creative_knowledge",
+    "text": "Har kaam cheenne wali nayi devrani 😂 | protein_intake | skit | family_skit | character_play | humor; storytelling; identity_appeal | comment_for_link | protein_intake; recipe; fussy_eating | recipe; lifestyle_kids_routine",
+    "source": "ads.csv"
+  },
+  {
+    "id": "770c28d1e1529ddd5021",
+    "category": "creative_knowledge",
+    "text": "மனுவுக்கு சாப்பாட்டு விஷயத்துல ரொம்பவே அடம் புடிப்பா | fussy_eating | voiceover_montage | problem_agitate_solve | demo_walkthrough | storytelling; identity_appeal | buy_now | fussy_eating; protein_intake; taste_better_than_other_brands | testimonial; lifestyle_kids_routine",
+    "source": "ads.csv"
+  },
+  {
+    "id": "bb3ce5802268deaf25cd",
+    "category": "creative_knowledge",
+    "text": "Holidays ಅಧಿಕாரபூர்வமா முடிஞ்சிருச்சு. | overall_growth | voiceover_montage | routine_integration | storytelling | storytelling; identity_appeal | buy_now | kids_overall_growth; protein_intake | lifestyle_kids_routine",
+    "source": "ads.csv"
+  },
+  {
+    "id": "072ac7b2052dfbc6c1a4",
+    "category": "creative_knowledge",
+    "text": "Hello everyone. Today, I am going to teach you how to make a quick, easy, and delicious treat for you | protein_intake | child_led | other | instructional | identity_appeal; storytelling | buy_now | recipe; protein_intake; taste_better_than_other_brands | recipe; explainer",
+    "source": "ads.csv"
+  },
+  {
+    "id": "6c13cc19e3191b4baeac",
+    "category": "creative_knowledge",
+    "text": "My kid refuses to eat dal or paneer, which means his daily protein need doesn't get met. | fussy_eating | explainer_to_camera | problem_agitate_solve | storytelling | storytelling; social_proof | buy_now | fussy_eating; protein_intake; recipe | testimonial; recipe; lifestyle_kids_routine",
+    "source": "ads.csv"
+  },
+  {
+    "id": "d0a4922d1b2d95b5370b",
+    "category": "creative_knowledge",
+    "text": "School jane wale bacche aksar beemar pad jate hain | immunity | voiceover_montage | problem_agitate_solve | earnest_talk | fear_appeal; statistics_specificity; identity_appeal | buy_now | kids_immunity; protein_intake; kids_overall_growth | explainer; testimonial",
+    "source": "ads.csv"
+  },
+  {
+    "id": "4c749cf1390bc9a4c56f",
+    "category": "creative_knowledge",
+    "text": "I thought I would need a new protein recipe every day | protein_intake | explainer_to_camera | routine_integration | earnest_talk | storytelling; statistics_specificity | buy_now | protein_intake; fussy_eating | lifestyle_kids_routine; recipe",
+    "source": "ads.csv"
+  },
+  {
+    "id": "f7410766cff90dcbe7db",
+    "category": "creator_knowledge",
+    "text": "drgarima_mehta | Clinical Pediatric Authority | She speaks in a fast, energetic, and professional manner, primarily using Hindi with English medical terminology. Her tone is consistently reassuring and clinical. | She uses Hindi for the primary explanation to ensure accessibility for Indian parents, while using English for specific medical terms and product names to maintain professional authority. | Infant health and safety; Myth-busting parenting practices; Pediatric nutrition; Government welfare schemes; Medical product safety | Split-screen with talking head on bottom and stock footage/graphics on top; Direct-to-camera piece with text overlays; Demonstrations using a medical doll; Screen recordings of government portals; Voiceover montages with illustrative b-roll | A video featuring the doctor in her clinical setting or a clean, bright space, using a split-screen format to explain the science behind a product's safety or efficacy. | High-production studio lighting, scripted sales pitches that lack medical context, or English-only audio without Hindi explanations.",
+    "source": "creators.csv"
+  },
+  {
+    "id": "9f6659083b6dfbcb2853",
+    "category": "creator_knowledge",
+    "text": "livesimply_withkripa | Relatable family-centric storyteller | Her tone is conversational, expressive, and warm, often shifting between comedic exaggeration for skits and a softer, more sincere register for sentimental reflections. | Uses a mix of English and Hindi, reflecting the common linguistic habits of urban Indian households to ensure relatability and emotional resonance. | Family dynamics; Domestic humor; Traditional Indian lifestyle; Motherhood and identity; Cultural transitions | Multi-character comedic skits; Text-overlay hooks; Direct address to camera; Warm-toned cinematic transitions; Domestic b-roll with voiceover | A skit that presents a product as a solution to a minor, relatable domestic annoyance, such as a misunderstanding between family members or a household chore struggle. | High-production studio lighting, scripted corporate jargon, or a product placement that ignores the domestic context of her household.",
+    "source": "creators.csv"
+  },
+  {
+    "id": "f7ca2d7dcb2ff8e5c4eb",
+    "category": "creator_knowledge",
+    "text": "ekamichildcare | Clinical Pediatric Authority | The tone is consistently calm, clinical, and professional. He speaks with the measured pace of a doctor explaining a diagnosis or treatment plan to a patient's parent. | The content is delivered in a professional, accessible English suitable for an educated, health-conscious parenting audience. | Newborn care and hygiene; Child development and safety; Pediatric nutrition and supplementation; Debunking parenting myths; First aid and emergency guidance | Split-screen with talking head on bottom and b-roll/illustrations on top; Direct-to-camera address with text overlays; List-based educational breakdowns; Clinical, well-lit studio aesthetic; Use of stethoscope as a visual authority marker | A sponsored post must feel like a clinical consultation or a myth-busting segment. It should feature the creator in his professional attire, using text overlays to highlight key medical takeaways or product benefits. | High-energy, influencer-style transitions, overly casual slang, or a lack of medical context would feel out of place. A script that reads like a generic advertisement rather than a doctor's recommendation will break trust.",
+    "source": "creators.csv"
+  },
+  {
+    "id": "1ed2ce2f400adf900075",
+    "category": "creator_knowledge",
+    "text": "hello_ps8 | Sentimental Lifestyle Mom | The creator uses a warm, enthusiastic, and reflective tone. She shifts between high-energy promotional delivery for fitness content and a soft, sentimental cadence for family-focused storytelling. | The creator uses English for captions and text overlays, which aligns with a broad, aspirational Indian lifestyle audience. | Motherhood and child bonding; Travel and road trips; Family celebrations; Fitness and wellness; Skincare and self-care | Voiceover montages over candid b-roll; High-contrast, professionally lit portrait carousels; Direct-to-camera vlog-style updates; Music-led emotional edits; Text-overlay hooks on video content | A video featuring a candid, warm interaction with her child, followed by a natural transition into a product that fits her fitness or skincare routine. The aesthetic must remain bright, clean, and high-contrast. | A stiff, scripted studio advertisement with heavy lighting and formal, corporate language. Any content that feels disconnected from her personal family narrative or daily routines will break trust.",
+    "source": "creators.csv"
+  },
+  {
+    "id": "ff784e9cd7d3b6969a97",
+    "category": "creator_knowledge",
+    "text": "sia_3vedi | precocious child performer | The creator speaks with the high-pitched, energetic, and expressive tone of a young child, often delivering lines scripted by adults in Hindi. | Hindi is the primary language for dialogue and skits, ensuring cultural resonance with the core Indian audience. | childhood humor; family dynamics; traditional Indian culture; milestone celebrations; relatable school-age struggles | direct-to-camera monologues; scripted comedic skits with adults; vibrant, high-saturation lifestyle montages; text-overlay driven storytelling; traditional costume showcases | A short, high-energy skit where Shivanya uses a product as a prop in a relatable, everyday situation like getting ready for school or playing at home. | A polished, corporate-style testimonial where the child reads a script about product benefits or technical specifications.",
+    "source": "creators.csv"
+  },
+  {
+    "id": "63e2fab88a13d317c5b9",
+    "category": "creator_knowledge",
+    "text": "thatkushalmistry | relatable Gujarati observational comedian | The creator uses a high-energy, expressive, and conversational tone typical of regional Indian social media comedy. | Content is primarily in Gujarati and Hindi, reflecting his local audience in Ahmedabad and the broader Indian diaspora. | cultural humor; family dynamics; festivals and traditions; social satire; relatable life moments | text overlay hooks; multi-character skits; handheld camera movement; direct address to camera; high-energy dance routines | A skit that uses a relatable 'what if' scenario or a cultural observation, filmed in a casual home or outdoor setting with minimal, natural-looking production. | Highly polished, studio-lit commercials with scripted, formal dialogue or English-only hooks that ignore the local cultural context.",
+    "source": "creators.csv"
+  },
+  {
+    "id": "29d23f8055a1167d9007",
+    "category": "creator_knowledge",
+    "text": "ohmother.in | relatable domestic documentarian | She speaks with a fast, energetic pace and an Indian accent. Her tone is playful and warm, often shifting between addressing her children and speaking directly to the viewer. | English is the primary language, which aligns with her lifestyle-oriented, urban-dwelling audience. | morning routines; parenting challenges; family travel; lifestyle organization; festive celebrations | voiceover montages of daily tasks; direct-to-camera personal anecdotes; relatable skits with text overlays; product demonstrations integrated into home routines; music-led family travel montages | A video showing the product being used during a real-time task, such as packing a school bag or preparing a meal, with a casual voiceover explaining why it helps her day run smoother. | High-production studio lighting, scripted sales pitches, or formal language that ignores the domestic, handheld aesthetic of her feed.",
+    "source": "creators.csv"
+  },
+  {
+    "id": "19b13b01f24df356d934",
+    "category": "creator_knowledge",
+    "text": "the_mum_wife_playbook | Relatable Mom-Next-Door | The creator uses a conversational, warm, and informal tone. She shifts between a sentimental, soft-spoken delivery for family moments and a high-energy, playful tone for comedic skits. | The content uses a mix of English and Hindi, reflecting the linguistic reality of a modern Delhi-based family. This bilingual approach is essential for maintaining authenticity with her local audience. | Motherhood and family bonding; Childhood milestones and humor; Lifestyle and beauty; Travel and cultural experiences; Personal reflection and aging | Voiceover montages over candid family footage; Playful skits featuring child-parent dialogue; Direct-to-camera product demonstrations; Text-overlay driven music edits; Casual, handheld piece-to-camera updates | A video filmed in a casual home setting using natural light, featuring the creator and her daughter in a candid or humorous interaction. The script should feel like a spontaneous observation of family life rather than a rehearsed advertisement. | High-production studio lighting, overly formal or scripted language, and a lack of the creator's daughter in the frame. Any content that feels like a traditional television commercial will break the trust established by her candid, home-video aesthetic.",
+    "source": "creators.csv"
+  },
+  {
+    "id": "559f84ee1322ea92d839",
+    "category": "creator_knowledge",
+    "text": "doc_mama_and_babies | The Trusted Doctor-Mom | Her tone is informative, calm, and authoritative yet warm and accessible. | She uses a mix of English and Hindi, typical of urban Indian professional circles, to ensure both medical accuracy and emotional resonance with her audience. | Family health and nutrition; Parenting and child development; Medical awareness and education; Travel and lifestyle; Product recommendations for home and family | Piece-to-camera educational segments; Voiceover montages over family or travel footage; Product demonstrations in home settings; Static carousel posts for fashion and travel; Direct address hooks addressing specific pain points | A video where she explains a health or parenting problem, uses her medical background to validate a solution, and demonstrates the product in a clean, bright home environment. | Highly produced, studio-lit commercials with scripted, unnatural dialogue or overly aggressive sales pitches that lack a personal or medical context.",
+    "source": "creators.csv"
+  },
+  {
+    "id": "c9177ebef08abd6c4e5c",
+    "category": "creator_knowledge",
+    "text": "couple_adishiv | sentimental family documentarian | The tone is consistently gentle, calm, and sentimental, reflecting a soft-spoken and reflective personality. | Content primarily uses Hindi and English, reflecting the bilingual nature of modern Indian urban households to maximize emotional connection with a broad domestic audience. | Motherhood and pregnancy; Traditional Indian family rituals; Domestic daily routines; Postpartum recovery; Couple intimacy | Voiceover-led montages of candid home footage; Emotional music-driven edits; Instructional demos for household or baby products; Text-overlay hooks describing personal milestones; Traditional attire transitions | A video that starts with a candid, unscripted moment of family interaction or a personal ritual, followed by a soft-spoken voiceover that explains how a product fits into that specific, real-life context. | High-production studio lighting, scripted sales pitches that ignore the domestic setting, or English-only hooks that lack the cultural warmth and traditional context typical of her feed.",
+    "source": "creators.csv"
+  },
+  {
+    "id": "6f10ed93a9bddd1d3053",
+    "category": "creator_knowledge",
+    "text": "raja_choudhary04 | Family-Centric Mini-Vlogger | The creator uses a warm, upbeat, and conversational tone, typical of family-oriented vlogging. He speaks directly to the audience with a focus on storytelling and emotional connection. | The content primarily uses Hindi, reflecting the domestic and intimate nature of the family vlogs. English is used sparingly for product names or specific branding elements. | Family milestones; Childhood development; Domestic daily life; Family travel; Nutritional health | Voiceover-led montages; Handheld home-video style; Comedic skits with product transitions; Candid family interaction clips; Fast-paced activity montages | A video that starts with a candid, unscripted moment of family interaction or a child playing, followed by a natural, low-pressure mention of a product as part of the daily routine. | High-production studio lighting, overly formal or scripted product claims, and a lack of family presence in the frame.",
+    "source": "creators.csv"
+  },
+  {
+    "id": "5e3ef29c11008a13512c",
+    "category": "creator_knowledge",
+    "text": "raising_zohran | Empathetic Mom-Mentor | Her tone is measured, gentle, and sincere, often shifting between instructional clarity and intimate, vulnerable storytelling. | She uses a mix of English and Hindi, reflecting a bilingual household environment that resonates with a South Asian parenting demographic. | Working motherhood; Infant safety and health; Practical parenting hacks; Spiritual and moral guidance; Work-life balance | Voiceover montages over candid home footage; Direct-to-camera advice segments; Text-overlay hooks on static or slow-motion clips; Product demonstrations using household items; Time-stamped morning routine vlogs | A video showing a genuine parenting struggle followed by a practical, low-friction solution that feels like a personal discovery rather than a sales pitch. | High-production studio lighting, scripted corporate jargon, or a lack of personal context regarding why the product matters to her specific daily routine.",
+    "source": "creators.csv"
+  },
+  {
+    "id": "8244d432881031ca8dcf",
+    "category": "creator_knowledge",
+    "text": "mumma_and_ridhu | The Graceful Indian Mom-Influencer | Her tone is consistently calm, warm, and professional, shifting to upbeat and enthusiastic during promotional segments. | Uses a mix of English and Hindi, typical of urban Indian parenting content, to maintain accessibility and cultural resonance. | Parenting and child bonding; Traditional Indian culture and festivals; Home and lifestyle hacks; Personal style and fashion; Educational and social awareness | Cinematic music-led montages; Piece-to-camera product demonstrations; Voiceover-led lifestyle storytelling; High-quality portrait photography; Relatable problem-solution 'mom hack' videos | A video that starts with a relatable domestic problem or a festive moment, uses soft-focus cinematic lighting, and integrates the product as a helpful, natural solution within a daily routine. | High-pressure sales language, cold studio lighting, or a script that ignores the cultural context of Indian festivals and family dynamics.",
+    "source": "creators.csv"
+  },
+  {
+    "id": "2b16c15ecfbd2c170ca9",
+    "category": "creator_knowledge",
+    "text": "parentingtips_surat | Clinical Pediatrician Authority | The tone is consistently calm, serious, and professional, reflecting a medical practitioner's demeanor. He speaks with directness and clarity, prioritizing information delivery over entertainment. | The content is primarily in English and Hindi, catering to a broad Indian audience seeking professional medical advice. | Child development milestones; Infant safety and injury prevention; Toddler behavior and emotional regulation; Medical advice for common childhood illnesses; Parenting myths and misconceptions | Piece-to-camera in a clinical office setting; Demonstrations using dolls or props; Direct address hooks posing a question to parents; Text overlays summarizing medical topics; Talking head videos filmed in a car | A video featuring the creator in his clinical setting, using a prop to explain a specific health or safety concern, followed by a clear, actionable recommendation. | High-production, overly polished studio lighting, scripted brand testimonials, or a tone that prioritizes humor over medical accuracy.",
+    "source": "creators.csv"
+  },
+  {
+    "id": "817dab77a1ebae32b6cc",
+    "category": "creator_knowledge",
+    "text": "tej.lil.diary | Relatable Mom-Next-Door | The tone is warm, encouraging, and informative. She uses a conversational style that feels like a direct address to a friend. | Uses a mix of English and regional language common in Hyderabad, ensuring accessibility for a local and broader Indian audience. | Motherhood and parenting hacks; Ethnic fashion and styling; Domestic product reviews; Postpartum fitness and wellness; Family celebrations and rituals | Voiceover montages over domestic b-roll; Direct-to-camera product demonstrations; Text-overlay hooks on video; Personal transformation storytelling; Event recap montages | A video showing the product being used in a real-world domestic setting, such as during a baby's bath time or while styling an outfit, with a voiceover explaining why it solved a specific parenting problem. | High-production studio lighting, scripted corporate jargon, or a lack of personal context regarding how the product fits into her daily routine with her child.",
+    "source": "creators.csv"
+  },
+  {
+    "id": "1e8b65491c82387ef6ab",
+    "category": "creator_knowledge",
+    "text": "paediatrics_decoded | The Trusted Pediatrician | The tone is consistently calm, professional, and clinical. He speaks with the measured pace of a doctor explaining a diagnosis to a patient's family. | The content is primarily in English, reflecting a professional medical standard suitable for a broad, educated audience. | Infant safety and development; Debunking parenting myths; Medical advice for common ailments; Nutrition and feeding milestones; Preventative health care | Direct-to-camera explanation; Split-screen with stock footage or medical diagrams; Text overlays on professional portrait shots; Clinical office setting with certificates visible; Demonstrations with infant patients | A video featuring the doctor in his office, addressing a specific, common parental concern or myth with a calm, direct-to-camera explanation. | High-production, overly stylized advertisements, scripted testimonials that sound like sales pitches, or content that lacks a clear medical or safety-focused educational angle.",
+    "source": "creators.csv"
+  },
+  {
+    "id": "26e967f4168f21e14f8e",
+    "category": "creator_knowledge",
+    "text": "radhikabansal0908 | The Relatable Mom-Expert | Her tone is consistently upbeat, informative, and nurturing. She uses clear, direct language to explain product benefits and routines, maintaining a professional yet friendly demeanor. | She uses a mix of English and Hindi, common in Indian lifestyle content, to ensure accessibility and emotional resonance with her audience. | Parenting and child care; Skincare and beauty routines; Home and lifestyle hacks; Festive and cultural celebrations; Product reviews and demonstrations | Direct address to camera for product benefits; Voiceover narration over domestic b-roll; Problem-solution text overlays; Demonstrations of product texture or application; Split-screen comparisons | A video that starts with a relatable parenting or lifestyle problem, followed by a clear, hands-on demonstration of a product in a bright, clean home setting. | Stiff, overly scripted corporate messaging, dark or moody lighting, or a lack of personal interaction with the product or family members.",
+    "source": "creators.csv"
+  },
+  {
+    "id": "2515e229da2ee9222e33",
+    "category": "creator_knowledge",
+    "text": "foodies_by_neha | efficient home-management mentor | She speaks in a fast, energetic, and conversational manner. Her tone is warm, encouraging, and highly instructional. | She uses a mix of Hindi and English, specifically using English for product names and technical terms to ensure clarity for a modern Indian audience. | kid-friendly healthy recipes; time-saving kitchen hacks; festive home preparation; nutritional alternatives; domestic organization | text overlay hooks with recipe episode numbers; top-down food preparation shots; voiceover-led montages; partial on-camera appearances; direct-to-camera instructional segments | A video demonstrating a product as a solution to a specific, time-consuming household problem. The video should feature a clear, text-based hook, bright kitchen lighting, and a voiceover that explains the benefit in a mix of Hindi and English. | High-production studio lighting, scripted corporate jargon, or a lack of a clear, practical 'hack' or 'recipe' utility. A video that does not show the product in actual use within a home setting would feel disconnected.",
+    "source": "creators.csv"
+  },
+  {
+    "id": "930378fe6437404cd98c",
+    "category": "creator_knowledge",
+    "text": "instamommy_suchi | The Trustworthy Mom-Expert | Her tone is warm, reassuring, and professional, shifting to empathetic and serious when discussing sensitive topics like fertility or health. | She uses a mix of English and Hindi, common for urban Indian creators, to maintain accessibility while sounding authoritative. | Motherhood and child health; Family wellness and nutrition; Fertility and IVF awareness; Women's empowerment and local entrepreneurship; Festive lifestyle and home management | Direct-to-camera educational pieces; Side-by-side product demonstrations; Emotional voiceover montages; Visual hooks using household props; Text-heavy lifestyle carousels | A video that starts with a relatable parenting problem, uses a household prop to demonstrate a solution, and includes a clear, informative explanation of the product's benefits or ingredients. | A highly scripted, cold, or overly corporate advertisement that lacks a personal narrative or fails to show the product being used in a real-world domestic setting.",
+    "source": "creators.csv"
+  },
+  {
+    "id": "479e46eb9d740bb90ea4",
+    "category": "creator_knowledge",
+    "text": "storiesbyvihaa | The Adorable Family Chronicler | The audio is rhythmic and celebratory, often featuring traditional music or the child's own voice in Telugu or Hindi. The tone is consistently sweet, playful, and energetic. | The content uses a mix of Telugu and Hindi, reflecting the creator's cultural background and audience. Using these languages is essential for maintaining the authentic, relatable feel of the family skits. | Family bonding; Childhood milestones; Cultural and religious festivals; Fashion and aesthetics; Humorous family skits | Music-synced montages; Piece-to-camera comedic skits; Voiceover-led family montages; High-quality portrait carousels; Text-overlay storytelling | A video featuring the child in a natural home setting, using a trending Telugu or Hindi audio track, with a text overlay that sets up a relatable family situation. | A highly polished, studio-lit advertisement with a script that sounds like an adult reading marketing copy, or a video that lacks the child's natural, playful personality.",
+    "source": "creators.csv"
+  },
+  {
+    "id": "e057a845fcd32fce0a30",
+    "category": "brand_knowledge",
+    "text": "Little Joys is an Indian kids nutrition brand; product categories include milk mixes and gummies.",
+    "source": "assignment brief"
+  },
+  {
+    "id": "5eaa29924fa3ffce339e",
+    "category": "campaign_brief",
+    "text": "{\"product\": \"Little Joys kids' nutrition products (milk mixes and gummies)\", \"objective\": \"Recommend five creators for an awareness and consideration campaign\", \"target_audience\": \"Parents of young children in India\", \"preferred_language\": \"Hinglish\", \"creative_direction\": \"Authentic everyday storytelling with natural, transparent product integration\", \"keywords\": [\"parenting\", \"kids food\", \"daily routine\", \"family\", \"child nutrition\"], \"approved_claims\": []}",
+    "source": "current campaign brief"
+  },
+  {
+    "id": "cfd66239f46082a4f7b0",
+    "category": "campaign_brief",
+    "text": "{\"product\": \"Little Joys kids' nutrition products (milk mixes and gummies)\", \"objective\": \"Recommend five creators for an awareness and consideration campaign\", \"target_audience\": \"Parents of young children in India\", \"preferred_language\": \"English\", \"creative_direction\": \"Authentic everyday storytelling with natural, transparent product integration\", \"keywords\": [\"parenting\", \"kids food\", \"daily routine\", \"family\", \"child nutrition\"], \"approved_claims\": []}",
+    "source": "current campaign brief"
+  }
+]

@@ -1,0 +1,122 @@
+{
+  "project": "Little Joys Creator Intelligence Engine",
+  "components": [
+    {
+      "id": "data_loader",
+      "path": "components/data_loader.py",
+      "entrypoint": "load_datasets",
+      "inputs": [
+        "config.json paths"
+      ],
+      "outputs": [
+        "ads",
+        "creators",
+        "posts",
+        "audience"
+      ]
+    },
+    {
+      "id": "performance",
+      "path": "components/performance_evaluator.py",
+      "entrypoint": "evaluate_performance",
+      "inputs": [
+        "creators",
+        "posts"
+      ],
+      "outputs": [
+        "performance_score",
+        "performance_evidence"
+      ]
+    },
+    {
+      "id": "semantic",
+      "path": "components/semantic_evaluator.py",
+      "entrypoint": "evaluate_semantic",
+      "inputs": [
+        "creators",
+        "posts",
+        "ads",
+        "campaign brief"
+      ],
+      "outputs": [
+        "semantic_score",
+        "semantic_evidence"
+      ]
+    },
+    {
+      "id": "brand",
+      "path": "components/brand_evaluator.py",
+      "entrypoint": "evaluate_brand",
+      "inputs": [
+        "creators",
+        "audience",
+        "campaign brief"
+      ],
+      "outputs": [
+        "brand_score",
+        "risk_flags",
+        "audience_data_available"
+      ]
+    },
+    {
+      "id": "memory",
+      "path": "components/brand_memory.py",
+      "entrypoint": "BrandMemory",
+      "inputs": [
+        "ads",
+        "creators",
+        "campaign brief"
+      ],
+      "outputs": [
+        "retrieved memory items"
+      ]
+    },
+    {
+      "id": "decision_agent",
+      "path": "components/decision_agent.py",
+      "entrypoint": "build_decisions",
+      "inputs": [
+        "three evaluator outputs",
+        "campaign brief",
+        "memory"
+      ],
+      "outputs": [
+        "ranked creators",
+        "top five"
+      ]
+    },
+    {
+      "id": "creative_generator",
+      "path": "components/creative_generator.py",
+      "entrypoint": "generate_concept",
+      "inputs": [
+        "creator profile",
+        "campaign brief",
+        "LLM client"
+      ],
+      "outputs": [
+        "concept",
+        "hook",
+        "beats",
+        "CTA",
+        "claims to verify"
+      ]
+    },
+    {
+      "id": "llm_client",
+      "path": "components/llm_client.py",
+      "entrypoint": "LLMClient",
+      "inputs": [
+        "provider",
+        "API key",
+        "model"
+      ],
+      "outputs": [
+        "optional generated text"
+      ]
+    }
+  ],
+  "config_file": "config.json",
+  "ui_mockup": "ui/mockup.html",
+  "streamlit_app": "app.py"
+}
